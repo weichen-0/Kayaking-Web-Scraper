@@ -1,6 +1,7 @@
 # Kayaking Web Scraper
 
 This Python programme scrapes the onePA Kayaking website to retrieve all certification course details for 1, 2 and 3 Star.
+Source: https://www.onepa.sg/cat/water-sports/subcat/kayaking
 
 How to run it:
 1) Install the required Python packages in scraper.py
