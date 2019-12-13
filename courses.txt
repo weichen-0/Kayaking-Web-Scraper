@@ -1,0 +1,26 @@
+[FOR MORE INFO, GO TO www.onepa.sg/class/details/<course code>]
+
+KAYAKING 1 STAR AWARD
+
+            Period(MM/DD)   Location Vacancy
+Code                                        
+C026745280  11/09 - 11/10  Sembawang    Full
+C026752937  11/16 - 11/17  Sembawang       4
+C026752365  11/23 - 11/24  Sembawang       7
+C026756958  11/24 - 11/30  Pasir Ris       8
+C026752361  11/30 - 12/01  Sembawang      10
+C026757000  12/07 - 12/08  Pasir Ris       2
+C026756994  12/14 - 12/15  Pasir Ris      10
+C026756995  12/21 - 12/22  Pasir Ris       9
+
+KAYAKING 2 STAR AWARD
+
+            Period(MM/DD)   Location Vacancy
+Code                                        
+C026758067  01/04 - 01/11  Sembawang      10
+C026745278  11/03 - 11/10  Sembawang       3
+C026749288  11/16 - 11/23  Pasir Ris       8
+C026745937  11/16 - 11/23  Sembawang    Full
+C026753700  11/30 - 12/08  Sembawang      10
+C026759008  12/21 - 12/28  Sembawang      10
+C026756991  12/21 - 12/29  Pasir Ris      10
