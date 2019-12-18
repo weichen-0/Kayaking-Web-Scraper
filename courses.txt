@@ -1,26 +1,26 @@
-[FOR MORE INFO, GO TO www.onepa.sg/class/details/<course code>]
+--FOR MORE INFO, GO TO www.onepa.sg/class/details/<course code>--
 
 KAYAKING 1 STAR AWARD
-
-            Period(MM/DD)   Location Vacancy
-Code                                        
-C026745280  11/09 - 11/10  Sembawang    Full
-C026752937  11/16 - 11/17  Sembawang       4
-C026752365  11/23 - 11/24  Sembawang       7
-C026756958  11/24 - 11/30  Pasir Ris       8
-C026752361  11/30 - 12/01  Sembawang      10
-C026757000  12/07 - 12/08  Pasir Ris       2
-C026756994  12/14 - 12/15  Pasir Ris      10
-C026756995  12/21 - 12/22  Pasir Ris       9
+            Period(MM/DD)    Location Vacancy
+Code                                         
+C026769405  01/04 - 01/05  Marina Bay       9
+C026766322  01/04 - 01/05   Pasir Ris    Full
+C026764753  01/04 - 01/05   Sembawang       3
+C026764754  01/11 - 01/12   Sembawang       8
+C026766327  01/18 - 01/19   Pasir Ris      10
+C026767666  01/18 - 01/19   Sembawang      10
+C026769878  02/08 - 02/09   Sembawang      10
+C026764756  02/15 - 02/16   Sembawang      10
+C026769858  02/22 - 02/23   Sembawang      10
+C026769863  03/07 - 03/08   Sembawang      10
 
 KAYAKING 2 STAR AWARD
-
             Period(MM/DD)   Location Vacancy
 Code                                        
-C026758067  01/04 - 01/11  Sembawang      10
-C026745278  11/03 - 11/10  Sembawang       3
-C026749288  11/16 - 11/23  Pasir Ris       8
-C026745937  11/16 - 11/23  Sembawang    Full
-C026753700  11/30 - 12/08  Sembawang      10
-C026759008  12/21 - 12/28  Sembawang      10
-C026756991  12/21 - 12/29  Pasir Ris      10
+C026769425  01/04 - 01/18  Pasir Ris       1
+C026768156  01/11 - 01/18  Pasir Ris      10
+
+KAYAKING 3 STAR TRAINING/ASSESSMENT
+Empty DataFrame
+Columns: [Period(MM/DD), Location, Vacancy]
+Index: []
